@@ -3,7 +3,7 @@
 Repo yang menampung list referensi untuk belajar pemrograman bahasa Indonesia. Terbuka untuk semuanya, enjoy Hacktoberfest!
 
 Todo:
-- Tambahkan nama channel YouTube, link channel YouTube, dan sedikit deskripsi terkait channel tersebut.
+- Tambahkan nama channel YouTube, link channel YouTube, dan sedikit deskripsi terkait channel tersebut dengan mengedit file README.md ini.
 
 ## Contoh:
 
