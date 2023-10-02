@@ -10,3 +10,7 @@ Todo:
 ### Programmer Zaman Now
 - Programmer Zaman Now atau PZN adalah channel yang menyediakan video tutorial mulai dari belajar basic Java, JavaScript, PHP, dan masih banyak lagi.
 - https://www.youtube.com/@ProgrammerZamanNow
+
+### Web Programming Unpas
+- Web Programming Unpas atau WPU adalah channel yang menyediakan video tutorial terkait web programming 
+- https://www.youtube.com/@sandhikagalihWPU
