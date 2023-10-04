@@ -14,3 +14,7 @@ Todo:
 ### Web Programming Unpas
 - Web Programming Unpas atau WPU adalah channel yang menyediakan video tutorial terkait web programming 
 - https://www.youtube.com/@sandhikagalihWPU
+
+### Kelas Terbuka
+- Kelas Terbuka adalah channel belajar programming / pemrograman / ngoding / koding berbahasa indonesia. Channel ini membahas teknik pemrograman secara umum beserta teknologi terkait dan teknik komputasi serta pengolahan data.  
+- https://www.youtube.com/@KelasTerbuka
